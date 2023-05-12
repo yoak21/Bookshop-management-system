@@ -1,4 +1,4 @@
-# Bookshop-Management-using-CppAnd-MySql
+
 ### BookShop Management System
 Create a MySQL Database
 
